@@ -76,6 +76,18 @@ const Forground = () => {
         tagColor: "green"
       },
     },
+
+   {
+      desc: "building digital card/product pages, go with pinned footer",
+      filesize: ".8mb",
+      close: false,
+      tag: {
+        isOpen: true,
+        TagTitle: "Download Now",
+        tagColor: "yellow"
+      },
+    },
+
   ]
 
   return (
